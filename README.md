@@ -1,3 +1,3 @@
 # apnacollege-demo
-this is my first Git Repository <br>
+this is my first Git Repository
 Author - Pankaj Rathore
